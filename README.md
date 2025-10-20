@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center" width="300">
-      <img src="https://img.icons8.com/color/80/000000/google-chrome.png" width="80" height="80" />
+      <img src="https://cdn-icons-png.flaticon.com/128/12109/12109556.png" width="80" height="80" />
       <br><strong>AI Chrome Extensions</strong>
       <br>Automation & Data Extraction
     </td>
@@ -169,11 +169,11 @@
         <br><strong>Polygon</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://img.icons8.com/color/48/000000/binance.png" width="50" height="50" />
+        <img src="https://cdn-icons-png.flaticon.com/128/18911/18911708.png" width="50" height="50" />
         <br><strong>Binance</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://img.icons8.com/color/48/000000/chainlink.png" width="50" height="50" />
+        <img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="50" height="50" />
         <br><strong>Chainlink</strong>
       </td>
     </tr>
