@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rusuland9&fontSize=60&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=smile-dev49&fontSize=60&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=70&animation=twinkling" />
 </div>
 
 <br>
@@ -185,19 +185,19 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusuland9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smile-dev49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusuland9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smile-dev49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusuland9&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smile-dev49&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -205,8 +205,8 @@
 ## 🎯 **Contribution Graph**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rusuland9/rusuland9/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" />
-  <img src="https://raw.githubusercontent.com/rusuland9/rusuland9/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/smile-dev49/smile-dev49/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/smile-dev49/smile-dev49/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake" />
 </div>
 
 <br>
@@ -214,16 +214,16 @@
 ## 🤝 **Let's Connect**
 
 <div align="center">
-  <a href="mailto:rusuland9@gmail.com">
+  <a href="mailto:smile-dev49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/rusuland9">
+  <a href="https://t.me/smile-dev49">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/rusuland9">
+  <a href="https://linkedin.com/in/smile-dev49">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/rusuland9">
+  <a href="https://twitter.com/smile-dev49">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -233,7 +233,7 @@
 ## 💡 **Fun Visits Counter**
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rusuland9/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/smile-dev49/count.svg" alt="Profile Views" />
 </div>
 
 <br>
