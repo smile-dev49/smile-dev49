@@ -161,7 +161,7 @@
         <br><strong>Ethereum</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://img.icons8.com/color/48/000000/solana.png" width="50" height="50" />
+        <img src="https://cdn-icons-png.flaticon.com/128/12114/12114239.png" width="50" height="50" />
         <br><strong>Solana</strong>
       </td>
       <td align="center" width="100">
