@@ -57,10 +57,6 @@
   </tr>
 </table>
 
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-ryan-1111&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 📊 GitHub Stats
 
 <a href="#">
