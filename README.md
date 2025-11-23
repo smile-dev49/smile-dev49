@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <a href="https://t.me/ardent916" style="color: blue; font-size:25px; text-decoration: none;">
+    <a href="https://t.me/so_so_funny" style="color: blue; font-size:25px; text-decoration: none;">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Condiment&size=28&pause=1000&color=DF1AF7&background=32FF3000&width=435&lines=%E2%9A%A1Frontend+Developer%E2%9A%A1" alt="Typing SVG" /></a>
     </a>
   </h1>
@@ -16,7 +16,8 @@
 
 ### 🌐 Connect with me:
 
-- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/ardent916)
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/so_so_funny)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rusuland9@gmail.com)
 
 ### ⚔ TECHNOLOGY
 
@@ -69,3 +70,5 @@
 <a href="#">
   <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
 </a>
+
+<img src="https://github.com/devafortun/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Snake gif" style="max-width: 100%;">
