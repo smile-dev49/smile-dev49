@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <a href="https://t.me/so_so_funny" style="color: blue; font-size:25px; text-decoration: none;">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Condiment&size=28&pause=1000&color=DF1AF7&background=32FF3000&width=435&lines=%E2%9A%A1Frontend+Developer%E2%9A%A1" alt="Typing SVG" /></a>
+      ⚡ Frontend Developer || Python Developer ⚡
     </a>
   </h1>
 </div>
@@ -11,6 +11,9 @@
 
 - **Frontend Developer** with expertise in React, Next.js, and Angular ✨
 - **Python Developer** experienced with Django and FastAPI 💯
+  - Building robust RESTful APIs and web applications with Django
+  - Developing high-performance APIs using FastAPI framework
+  - Experienced in Python backend development, database design, and API integration
 - Passionate about building modern, scalable web applications 🚀
 - Committed to writing clean, maintainable code and delivering exceptional user experiences 👨‍💻
 
@@ -56,15 +59,5 @@
     </td>
   </tr>
 </table>
-
-### 📊 GitHub Stats
-
-<a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mujeeb4582&show_icons=true&theme=cobalt&layout=compact" />
-</a>
-
-<a href="#">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujeeb4582&langs_count=8&theme=cobalt&layout=compact" />
-</a>
 
 <img src="https://github.com/devafortun/github-contribution-grid-snake.svg/raw/main/github-contribution-grid-snake.svg" alt="Snake gif" style="max-width: 100%;">
