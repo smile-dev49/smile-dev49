@@ -33,11 +33,6 @@
 - Passionate about leveraging AI to solve real-world problems 🚀
 - Committed to writing clean, maintainable code and delivering exceptional user experiences 👨‍💻
 
-### 🌐 Connect with me:
-
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/so_so_funny)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rusuland9@gmail.com)
-
 ### ⚔ TECHNOLOGY STACK
 
 #### Frontend Development
